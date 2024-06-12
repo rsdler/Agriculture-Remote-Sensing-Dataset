@@ -9,3 +9,7 @@ Other Dataset Collection: [Remote Sensing Dataset on Semantic Segmentation](http
 * Project: https://fiboa.org/ 
 * Github:https://github.com/fiboa
 * Download: https://github.com/fiboa/data
+
+### 2. Barley Remote Sensing Dataset
+
+* Download: https://tianchi.aliyun.com/dataset/74952
